@@ -1,6 +1,6 @@
 {
-    "name": "CUHK-JC-iCar",
-    "version": "1.0.1",
+    "name": "Huskylens",
+    "version": "2.0.3",
     "description": "",
     "dependencies": {
         "core": "*"
@@ -17,7 +17,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
     "supportedTargets": [
         "microbit"
     ],
